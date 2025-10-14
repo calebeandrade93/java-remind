@@ -53,10 +53,16 @@ public class Main {
             contador++;
         }
 
+        //Cast
+        double resultado = 0.0;
+        int resultadoInt = (int) resultado;
+
+        String stringCast = "10";
+        int meuInt2 = Integer.parseInt(stringCast);
 
 
 
-        
+
     }
 
 }
