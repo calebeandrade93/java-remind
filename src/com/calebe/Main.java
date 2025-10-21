@@ -19,6 +19,5 @@ public class Main {
         gol.getCarroTurbo();
 
         System.out.println(testeStatic);
-
     }
 }
