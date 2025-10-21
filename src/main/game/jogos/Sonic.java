@@ -11,6 +11,7 @@ public class Sonic implements Jogo {
 
     public Sonic(){
         this.plataformas.add(Plataformas.SEGA);
+        this.plataformas.add(Plataformas.PC);
     }
 
     @Override
